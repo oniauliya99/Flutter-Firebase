@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "206927794623",
+    "project_id": "flutterfirebase-1bcc0",
+    "storage_bucket": "flutterfirebase-1bcc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206927794623:android:25aafa232e11a64403510a",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206927794623-1ai9h7nbsl7oln11ec1fld8i269gbe22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.praktikum_firebase",
+            "certificate_hash": "d8a7a2e3cc4a969cc3e73944d9cf9b8385e716ed"
+          }
+        },
+        {
+          "client_id": "206927794623-e416atms0e5htamch8d36pchiv1t5068.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUM2vXLUIeuCxoDPPuKtQqM4UIv1W7ung"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206927794623-e416atms0e5htamch8d36pchiv1t5068.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
